@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -54,3 +55,13 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# The Àájọ App by Dexter Labs
+
+### Figma Design URL
+https://www.figma.com/design/XlLhMtWZs5Std9Bq57YiJX/Aajo-App-by-Dexter-Labs---K-Tech-Fest?m=auto&t=6PG2qfY49fNfkln9-6
+
+### Pitch Deck URL
+https://www.figma.com/deck/VXyH1Ntql4bisdTOBg7O5r
+
+>>>>>>> 8f9674a96a5179e2f5e87f026be08c350130cf1f
